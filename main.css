@@ -1,6 +1,20 @@
 html{
     font-size: 22px
 }
+hr {
+    widith:100%; height:2px; background: #aa4069;
+
+}
 body {
     background-color: #ececec;
+}
+h1, h2, h3, h4 {
+    color: #58427c;
+}
+img {
+    border: 2px solid #a2a2d0
+}
+th, td {
+    border: 2px solid #a2a2d0;
+    padding: 15px;
 }
